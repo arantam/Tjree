@@ -1,7 +1,6 @@
 # Tjree
 A tree plugin created with jQuery, Bootstrap UI styled.
-jQuery version: 1.11.3
-Bootstrap version: 3.3.5
+jQuery version: 1.11.3 and Bootstrap version: 3.3.5.
 
 Lots of jQuery tree plugins found everywhere, but none of them meet my need. That's why this plugin says hello world.
 
@@ -15,5 +14,4 @@ What you can do with this tree plugin:
 
 
 
-so far, this tree plugin just contains these simple functions as above or even hides some bugs, however, hope some ppl like it and help with improving it in future.
-
+So far, this tree plugin just contains these simple functions as above or there exists some buts yet, however, I hope some ppl like it and help with improving it together.
