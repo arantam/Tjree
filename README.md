@@ -12,6 +12,7 @@ What you can do with this tree plugin:
 
 How to use:
 
+
 var settings = {
         debugMode: false,
         debugInfoClass: 'debug_info',
@@ -36,7 +37,6 @@ var settings = {
         tmpNodeClass: 'new',
         tmpTopClass: 'tmp_top',
         tmpBottomClass: 'tmp_bottom',
-        
         buttons: {
             add: {
                 url: '',
