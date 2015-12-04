@@ -11,10 +11,10 @@ What you can do with this tree plugin:
 3. drag and drop a node;
 
 How to use:
+
 var settings = {
         debugMode: false,
         debugInfoClass: 'debug_info',
-
         rootText: '根节点',
         reloadText: '正在重新加载...',
         treeClass: 'tree_list list-unstyled',
